@@ -96,7 +96,7 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 <span> 
   <img src="https://img.shields.io/badge/Linode-075807?style=plastic&logo=linode&logoColor=white">
   <img src="https://img.shields.io/badge/Vultr-084BA8?style=plastic&logo=vultr&logoColor=white">
-  <img src="https://img.shields.io/badge/Replit-E34F26?style=plastic&logo=replit&logoColor=white">
+  <img src="https://img.shields.io/badge/Replit-2C8EBB?style=plastic&logo=replit&logoColor=white">
   <img src="https://img.shields.io/badge/Local-000000?style=plastic&logo=windowsterminal&logoColor=white">
 </span>
 </details>
