@@ -5,7 +5,7 @@
 
 
 <p>
-I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years old, and a development and penetration testing enthusiast. Ever since August 2016 I have been rather captivated by development. Starting this journey learning Java, I programmed several first person shooter games, which were often bugged, therefore I moved on. In September 2020 I joined Discord in my first account. I obtained many friends, until a hacker DMed me a nitro scam. I unfortunately lost the account. However it sparked my former interest in programming and also in cyber security, and I went on to learn how to program Javascript, Python, HTML, CSS, Bash, and more. Starting by programming over 40 discord bots for friends, I went on to make small web servers to make websites, then moved on to modding Android APKs. I would not say I am a professional developer, there is always much more to learn, however I strongly desire to change the world and bring a new aspect to development. The best way to contact me is in Discord, you may scroll to bottom to see all of my social media links. Here's a random dev joke!
+I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years old, living in Michigan, USA; and a development and penetration testing enthusiast. Ever since August 2016 I have been rather captivated by development. Starting this journey learning Java, I programmed several first person shooter games, which were often bugged, therefore I moved on. In September 2020 I joined Discord in my first account. I obtained many friends, until a hacker DMed me a nitro scam. I unfortunately lost the account. However it sparked my former interest in programming and also in cyber security, and I went on to learn how to program Javascript, Python, HTML, CSS, Bash, and more. Starting by programming over 40 discord bots for friends, I went on to make small web servers to make websites, then moved on to modding Android APKs. I would not say I am a professional developer, there is always much more to learn, however I strongly desire to change the world and bring a new aspect to development. The best way to contact me is in Discord, you may scroll to bottom to see all of my social media links. Here's a random dev joke!
 </p>
 
 
@@ -15,10 +15,7 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 </div>
 </p>
 
-![Recently Played](https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4)
-
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=r712wngk6bl2xspbd4lbw90n4&count=5)
-
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4)
 
 <h2>Languages</h2>
 <span> 
@@ -101,7 +98,7 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 
 
 <h2>Connect With Me</h2>
-I am most active in Discord.
+The best way to contact me is in Discord.
 
 ```
 Aspect404_#0001
