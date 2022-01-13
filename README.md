@@ -11,13 +11,13 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 
 <p>
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=gradientBlue" alt="Jokes">
+<img src="https://readme-jokes.vercel.app/api?theme=gradientBlue" alt="Spotify">
 </div>
 </p>
 
 <p>
 <div align="center">
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4)
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4" alt="Jokes">
 </div>
 </p>
 
