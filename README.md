@@ -15,7 +15,11 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 </div>
 </p>
 
+<p>
+<div align="center">
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4)
+</div>
+</p>
 
 <h2>Languages</h2>
 <span> 
@@ -69,7 +73,7 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 <span>
   <img src="https://img.shields.io/badge/Android-7.1.2 ‒ 11-DC2511?style=plastic&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Debian-10 ‒ 11-DC2511?style=plastic&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali Linux-21.2-DC2511?style=plastic&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali Linux-2021.2-DC2511?style=plastic&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-20.04 ‒ 21.10-DC2511?style=plastic&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-10 ‒ 11-DC2511?style=plastic&logo=windows&logoColor=white">
 </span>
