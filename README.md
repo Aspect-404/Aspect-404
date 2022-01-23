@@ -72,6 +72,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
 <h2>Operating Systems</h2>
 <span>
   <img src="https://img.shields.io/badge/Android-7.1.2 ‒ 11-DC2511?style=plastic&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/BlackArch Linux-2021.09.01-DC2511?style=plastic&logo=archlinux&logoColor=white">
   <img src="https://img.shields.io/badge/Debian-10 ‒ 11-DC2511?style=plastic&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/Kali Linux-2021.2-DC2511?style=plastic&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-20.04 ‒ 21.10-DC2511?style=plastic&logo=ubuntu&logoColor=white">
