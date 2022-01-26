@@ -37,6 +37,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
   <img src="https://img.shields.io/badge/C++-679dd4?style=plastic&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-9b5196?style=plastic&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-007d9c?style=plastic&logo=go&logoColor=white">
 </span>
 
 
