@@ -17,7 +17,7 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 This is linked to my Discord profile, showing my current presence!
 <p>
 <div align="center">
-<img src="https://contact.aspect404.repl.co/image.png" alt="Discord">
+<img src="https://contact.aspect404.repl.co/image.png#" alt="Discord">
 </div>
 </p>
 This is linked to my Spotify API and displays what I listen to on Spotify!
