@@ -17,7 +17,7 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 This is linked to my Spotify API and displays what I listen to on Spotify!
 <p>
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4&theme=novatorem&redirect=true" alt="Spotify">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4&theme=novatorem" alt="Spotify">
 </div>
 </p>
 
