@@ -17,9 +17,12 @@ I am Aspect404_, you can call me Aspect! My true name is Ethan, I am 17 years ol
 This is linked to my Spotify API and displays what I listen to on Spotify!
 <p>
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4" alt="Spotify">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=r712wngk6bl2xspbd4lbw90n4&theme=novatorem&redirect=true" alt="Spotify">
 </div>
 </p>
+
+
+
 
 <h2>Languages</h2>
 <span> 
@@ -32,6 +35,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
 
 
 
+
 <h2>Planning to Learn</h2>
 <span>
   <img src="https://img.shields.io/badge/C++-679dd4?style=plastic&logo=cplusplus&logoColor=white">
@@ -39,6 +43,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
   <img src="https://img.shields.io/badge/Go-007d9c?style=plastic&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white">
 </span>
+
 
 
 
@@ -70,6 +75,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
 
 
 
+
 <h2>Operating Systems</h2>
 <span>
   <img src="https://img.shields.io/badge/Android-7.1.2 ‒ 11-DC2511?style=plastic&logo=android&logoColor=white">
@@ -79,6 +85,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
   <img src="https://img.shields.io/badge/Ubuntu-20.04 ‒ 21.10-DC2511?style=plastic&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-10 ‒ 11-DC2511?style=plastic&logo=windows&logoColor=white">
 </span>
+
 
 
 
@@ -101,6 +108,14 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
   <img src="https://img.shields.io/badge/Replit-E34F26?style=plastic&logo=replit&logoColor=white">
   <img src="https://img.shields.io/badge/Vultr-084BA8?style=plastic&logo=vultr&logoColor=white">
 </span>
+
+
+
+
+<h2>Websites</h2>
+[Personal Website](https://aspect404.repl.co/Home)
+
+
 
 
 <h2>Connect With Me</h2>
