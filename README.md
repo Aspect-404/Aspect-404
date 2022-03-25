@@ -113,7 +113,7 @@ This is linked to my Spotify API and displays what I listen to on Spotify!
 
 
 <h2>Websites</h2>
-[Personal Website](https://aspect404.repl.co/Home)
+[Personal](https://aspect404.repl.co/Home)
 
 
 
